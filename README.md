@@ -29,11 +29,7 @@ Focused on clean architecture, scalable pipelines, and documentation-driven deve
 
 ---
 
-### 📊 GitHub Insights
-![Divyanshi's Stats](https://github-readme-stats.vercel.app/api?username=divyanshii20&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshii20&layout=compact&theme=dracula)
 
----
 
 ### 📬 Connect & Collaborate
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshi-mishra-55a364335/)
